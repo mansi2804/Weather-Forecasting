@@ -9,7 +9,7 @@ Enclosed herewith are screenshots depicting the progress and elements of my proj
 <br/>
 
 ## 💻 Live Demo:
-https://weather-forecasting-lilac.vercel.app/
+https://weather-forecasting-bymansi.vercel.app/
 
 
 
